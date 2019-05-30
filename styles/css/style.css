@@ -1,0 +1,15 @@
+.form {
+    display: inline-block;
+}
+
+.bgImage {
+    background-image: url("../../images/election.jpg");
+}
+
+.header-text {
+    text-align: center;
+}
+
+.header-div {
+    border: 0em;
+}
