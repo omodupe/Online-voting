@@ -1,0 +1,65 @@
+{
+  "Voters": [
+    {
+      "firstName": "modupe",
+      "lastName": "lafe",
+      "id": 1
+    },
+    {
+      "firstName": "modupe",
+      "lastName": "lafe",
+      "email": "dupe@gmail.com",
+      "password": "o93647js",
+      "phonenumber": "08060036768",
+      "id": 2
+    },
+    {
+      "firstName": "modupe",
+      "lastName": "sggdbq",
+      "email": "dupe@gmail.com",
+      "password": "hggsgsh",
+      "phonenumber": "dhffn",
+      "id": 3
+    },
+    {
+      "firstName": "asgsahash",
+      "lastName": "lafe",
+      "email": "ope@gmail.com",
+      "password": "gstue",
+      "phonenumber": "08060036768",
+      "id": 4
+    },
+    {
+      "firstName": "dgghjhhj",
+      "lastName": "sggdbq",
+      "email": "dupe@gmail.com",
+      "password": "hdtes",
+      "phonenumber": "dhffn",
+      "id": 5
+    }
+  ],
+  "Candidates": [
+    {
+      "firstName": "modupe",
+      "lastName": "lafe",
+      "password": "oe93",
+      "phonenumber": "08060036768",
+      "id": 1
+    },
+    {
+      "firstName": "modupe",
+      "lastName": "sggdbq",
+      "password": "y654e",
+      "phonenumber": "08060036768",
+      "id": 2
+    },
+    {
+      "firstName": "dgghjhhj",
+      "lastName": "hacsfgjas",
+      "party": "pdp",
+      "password": "geuiuqw",
+      "phonenumber": "dhffn",
+      "id": 3
+    }
+  ]
+}
