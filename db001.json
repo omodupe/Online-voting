@@ -60,6 +60,14 @@
       "password": "geuiuqw",
       "phonenumber": "dhffn",
       "id": 3
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "party": "",
+      "password": "",
+      "phonenumber": "",
+      "id": 4
     }
   ]
 }
